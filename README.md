@@ -10,5 +10,5 @@ Projeto sendo desenvolvido utilizando o [artigo](https://www.linkedin.com/posts/
 > E aí, pessoal! Animado estou para contar para vocês que estamos prestes a embarcar em uma jornada incrível. Esta é a primeira parte de uma série de quatro artigos, onde vou abrir o jogo sobre como criar uma API usando Java, Spring e autenticação JWT.
 
 
-### Artigos
+### Processos
 - [x] Inicialização do projeto com Spring Initializr
