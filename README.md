@@ -1,10 +1,8 @@
 # API-Rest-da-Educa.curadoria
 
 <a href="https://www.linkedin.com/posts/matheus-matos-0644bb224_desenvolvimentodeapi-java-springboot-activity-7129143256092688385-cRwC/" target="_blanc">
-  <img src="https://github.com/TheBrunno/API-Rest-da-Educa.curadoria/assets/68453992/022951cb-88ea-47da-aec7-0a51ed00199c">
+  <img src="https://github.com/TheBrunno/API-Rest-da-Educa.curadoria/assets/68453992/e42b5cef-1226-47d2-8eb9-c9c56d21d9f3">
 </a>
-
-
 
 ## Projeto em desenvolvimento 🚧🛠️
 Projeto sendo desenvolvido utilizando o [artigo](https://www.linkedin.com/posts/matheus-matos-0644bb224_desenvolvimentodeapi-java-springboot-activity-7129143256092688385-cRwC/), escrito por Matheus Matos.
